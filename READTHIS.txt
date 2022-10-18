@@ -1,1 +1,1 @@
-Hello, I'm Ben, I'm a programmer in which am starting to learn c++. This is a control panel for robots and I hope this works. I did not upload the source code file because I don't want people stealing my work but yeah, cya. :)
+Hello, I'm Ben, I'm a programmer in which am starting to learn c++. This is a control panel for robots and I hope this works, cya. :)
